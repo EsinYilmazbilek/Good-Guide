@@ -1,0 +1,83 @@
+// {
+//   "workbench.colorCustomizations": {
+//     "statusBar.background": "#f40db2",
+//     "titleBar.activeBackground": "#f40db2",
+//     "titleBar.inactiveBackground": "#f40db2",
+//   },
+//   "window.title": "PINK"
+// }
+
+// {
+//   "workbench.colorCustomizations": {
+//     "statusBar.background": "#fc5000",
+//     "titleBar.activeBackground": "#fc5000",
+//     "titleBar.inactiveBackground": "#fc5000",
+//   },
+//   "window.title": "ORANGE"
+// }
+
+// {
+//   "workbench.colorCustomizations": {
+//     "statusBar.background": "#2ab152",
+//     "titleBar.activeBackground": "#2ab152",
+//     "titleBar.inactiveBackground": "#2ab152",
+//     "statusBar.foreground": "#000",
+//     "titleBar.inactiveForeground": "#000",
+//     "titleBar.activeForeground": "#000",
+
+//   },
+//   "window.title": "GREEN"
+// }
+
+// {
+//   "workbench.colorCustomizations": {
+//     "statusBar.background": "#c71da5af",
+//     "titleBar.activeBackground": "#c71da5af",
+//     "titleBar.inactiveBackground": "#c71da5af",
+//   },
+//   "window.title": "PURPLE"
+// }
+
+// {
+//   "workbench.colorCustomizations": {
+//     "statusBar.background": "#ff0000af",
+//     "titleBar.activeBackground": "#ff0000af",
+//     "titleBar.inactiveBackground": "#ff0000af",
+//   },
+//   "window.title": "RED"
+// }
+
+
+// {
+//   "workbench.colorCustomizations": {
+//     "statusBar.background": "#ff0000af",
+//     "titleBar.activeBackground": "#ff0000af",
+//     "titleBar.inactiveBackground": "#ff0000af",
+//   },
+//   "window.title": "RED"
+// }
+
+
+// {
+//   "workbench.colorCustomizations": {
+//     "statusBar.background": "#fef15e",
+//     "titleBar.activeBackground": "#fef15e",
+//     "titleBar.inactiveBackground": "#fef15e",
+//     "statusBar.foreground": "#000",
+//     "titleBar.inactiveForeground": "#000",
+//     "titleBar.activeForeground": "#000",
+//   },
+//   "window.title": "YELLOW"
+// }
+
+{
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#b06008",
+    "titleBar.activeBackground": "#b06008",
+    "titleBar.inactiveBackground": "#b06008",
+    "statusBar.foreground": "#000",
+    "titleBar.inactiveForeground": "#000",
+    "titleBar.activeForeground": "#000",
+  },
+  "window.title": "BACKEND"
+}
